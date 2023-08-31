@@ -1,1 +1,1 @@
-# react-redux-app-api
+# React & Redux app to API
