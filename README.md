@@ -1,1 +1,1 @@
-# React & Redux app to API
+# Connet React & Redux app to API
